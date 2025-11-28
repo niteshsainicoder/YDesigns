@@ -196,8 +196,12 @@ Tailwind utilities commonly used:
 ---
 
 ## 📷 Screenshots (Optional)
-Place inside:
+
 ```
+<img width="1755" height="1153" alt="image" src="https://github.com/user-attachments/assets/be78f278-e880-4a46-b62d-a0fd99441bfa" />
+<img width="1755" height="951" alt="image" src="https://github.com/user-attachments/assets/204f6048-bfb3-4a4b-9888-555a27b2a39e" />
+<img width="1755" height="1194" alt="image" src="https://github.com/user-attachments/assets/ee9374ae-1867-4647-92c9-e1bf51f1f9fe" />
+<img width="1755" height="1194" alt="image" src="https://github.com/user-attachments/assets/d608d4b0-3bd3-4434-ad95-2a62c110a411" />
 
 ```
 
