@@ -1,0 +1,11 @@
+src/app/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/features/analytics/pages/AnalyticsPage.tsx(2,27): error TS6133: 'BarChart' is declared but its value is never read.
+src/features/analytics/pages/AnalyticsPage.tsx(2,37): error TS6133: 'Bar' is declared but its value is never read.
+src/features/users/api/api.ts(82,5): error TS2322: Type '{ name: string; status: "Active" | "Inactive"; role: string; id: string; email: string; createdAt: string; avatar?: string; }' is not assignable to type 'User'.
+  Types of property 'role' are incompatible.
+    Type 'string' is not assignable to type '"Admin" | "User" | "Moderator"'.
+src/features/users/components/EditUserModal.tsx(3,29): error TS2307: Cannot find module '@hookform/resolvers/zod' or its corresponding type declarations.
+src/features/users/components/UserTable.tsx(3,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/features/users/components/UserTable.tsx(6,26): error TS2307: Cannot find module '../../../components/ui/Skeleton' or its corresponding type declarations.
+src/features/users/pages/UserPage.tsx(4,28): error TS2307: Cannot find module '../components/UsersTable' or its corresponding type declarations.
+src/features/users/pages/UserPage.tsx(33,27): error TS2339: Property 'data' does not exist on type 'never'.
