@@ -198,8 +198,7 @@ Tailwind utilities commonly used:
 ## 📷 Screenshots (Optional)
 Place inside:
 ```
-/screenshots/dashboard.png
-/screenshots/user-details.png
+
 ```
 
 ---
